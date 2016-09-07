@@ -13,7 +13,7 @@ import extra.Log;
 public class App extends MultiDexApplication
 {
 
-    private static final String TAG=AppUtils.TAG+App.class.getSimpleName();
+    private static final String TAG=AppUtils.APP_TAG +App.class.getSimpleName();
 
     @Override
     public void onCreate()

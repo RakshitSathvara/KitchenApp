@@ -7,6 +7,6 @@ package io.fusionbit.kitchenapp;
 public class AppUtils
 {
 
-    public static final String TAG = "KTP ";
+    public static final String APP_TAG = "KTP ";
 
 }
