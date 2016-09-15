@@ -12,5 +12,6 @@ public class ActivityInitial extends KitchenAppActivity
     {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_initial);
+
     }
 }
