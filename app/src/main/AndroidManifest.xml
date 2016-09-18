@@ -23,9 +23,8 @@
             android:screenOrientation="portrait" />
         <activity
             android:name=".Login"
-            android:theme="@style/LoginTheme">
-
-        </activity>
+            android:theme="@style/LoginTheme"></activity>
+        <activity android:name=".ActivityRegistration"></activity>
     </application>
 
 </manifest>
